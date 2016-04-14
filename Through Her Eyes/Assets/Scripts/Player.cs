@@ -19,6 +19,8 @@ public class Player : MonoBehaviour {
 	float rotationY = 0F;
 
 	GameObject grabbedObject;
+	
+	static float oldX;
 
 	// Use this for initialization
 	void Awake () {
@@ -76,11 +78,12 @@ public class Player : MonoBehaviour {
 				}
 			}
 		} else {
-			float x = -(h * 20);// + Input.GetAxis("Mouse X") * 8) * 10;
+			float x = -(h * 20);
+			if(x == 0 && oldX != 0)
+				x = oldX / 2;
 			grabbedObject.transform.position = Camera.main.transform.position + (Camera.main.transform.forward * .6f);
 			grabbedObject.transform.rotation = Quaternion.Euler(x, transform.rotation.eulerAngles.y - 90, transform.rotation.eulerAngles.z);
-			
-			Debug.Log ("rotY: " + Input.GetAxis("Mouse X") + ", " + "horiz: " + h);
+
 			if (Input.GetMouseButtonDown (0)) {
 				Vector3 pos = Camera.main.transform.position + (Camera.main.transform.forward * .35f);
 				Grabable g = grabbedObject.GetComponent<Grabable>();
@@ -93,11 +96,11 @@ public class Player : MonoBehaviour {
 					c.enabled = true;
 				grabbedObject = null;
 			}
+			oldX = x;
 		}
 		Camera.main.transform.localPosition = new Vector3(0, cc.height/4, 0);
 		//cc.height;
 	}
-	static float rotY;
 
 	public GameObject HeldObject(){
 		return grabbedObject;
