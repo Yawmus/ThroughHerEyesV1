@@ -76,10 +76,11 @@ public class Player : MonoBehaviour {
 				}
 			}
 		} else {
-			//grabbedObject.transform.parent = GameObject.Find("GrabbedObject").transform;
-			//GameObject.Find("GrabbedObject").transform.position = Camera.main.transform.position;
+			float x = -(h * 20);// + Input.GetAxis("Mouse X") * 8) * 10;
 			grabbedObject.transform.position = Camera.main.transform.position + (Camera.main.transform.forward * .6f);
-			grabbedObject.transform.rotation = Quaternion.Euler(0,0,0);
+			grabbedObject.transform.rotation = Quaternion.Euler(x, transform.rotation.eulerAngles.y - 90, transform.rotation.eulerAngles.z);
+			
+			Debug.Log ("rotY: " + Input.GetAxis("Mouse X") + ", " + "horiz: " + h);
 			if (Input.GetMouseButtonDown (0)) {
 				Vector3 pos = Camera.main.transform.position + (Camera.main.transform.forward * .35f);
 				Grabable g = grabbedObject.GetComponent<Grabable>();
@@ -96,6 +97,7 @@ public class Player : MonoBehaviour {
 		Camera.main.transform.localPosition = new Vector3(0, cc.height/4, 0);
 		//cc.height;
 	}
+	static float rotY;
 
 	public GameObject HeldObject(){
 		return grabbedObject;
