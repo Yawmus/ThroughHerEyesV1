@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 92bdd9b116b094c928b1ca297b99009f
+timeCreated: 1459923039
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: pasted__group
+    100002: pasted__group1
+    100004: pasted__group2
+    100006: pasted__group4
+    100008: pasted__group5
+    100010: pasted__group6
+    100012: pasted__group7
+    100014: pasted__group8
+    100016: pasted__group9
+    100018: pasted__phoneBase
+    100020: pasted__phoneButton0
+    100022: pasted__phoneButton1
+    100024: pasted__phoneButton2
+    100026: pasted__phoneButton3
+    100028: pasted__phoneButton4
+    100030: pasted__phoneButton5
+    100032: pasted__phoneButton6
+    100034: pasted__phoneButton7
+    100036: pasted__phoneButton8
+    100038: pasted__phoneButton9
+    100040: pasted__phoneHandset
+    100042: //RootNode
+    400000: pasted__group
+    400002: pasted__group1
+    400004: pasted__group2
+    400006: pasted__group4
+    400008: pasted__group5
+    400010: pasted__group6
+    400012: pasted__group7
+    400014: pasted__group8
+    400016: pasted__group9
+    400018: pasted__phoneBase
+    400020: pasted__phoneButton0
+    400022: pasted__phoneButton1
+    400024: pasted__phoneButton2
+    400026: pasted__phoneButton3
+    400028: pasted__phoneButton4
+    400030: pasted__phoneButton5
+    400032: pasted__phoneButton6
+    400034: pasted__phoneButton7
+    400036: pasted__phoneButton8
+    400038: pasted__phoneButton9
+    400040: pasted__phoneHandset
+    400042: //RootNode
+    2300000: pasted__phoneBase
+    2300002: pasted__phoneButton0
+    2300004: pasted__phoneButton1
+    2300006: pasted__phoneButton2
+    2300008: pasted__phoneButton3
+    2300010: pasted__phoneButton4
+    2300012: pasted__phoneButton5
+    2300014: pasted__phoneButton6
+    2300016: pasted__phoneButton7
+    2300018: pasted__phoneButton8
+    2300020: pasted__phoneButton9
+    2300022: pasted__phoneHandset
+    3300000: pasted__phoneBase
+    3300002: pasted__phoneButton0
+    3300004: pasted__phoneButton1
+    3300006: pasted__phoneButton2
+    3300008: pasted__phoneButton3
+    3300010: pasted__phoneButton4
+    3300012: pasted__phoneButton5
+    3300014: pasted__phoneButton6
+    3300016: pasted__phoneButton7
+    3300018: pasted__phoneButton8
+    3300020: pasted__phoneButton9
+    3300022: pasted__phoneHandset
+    4300000: pasted__phoneBase
+    4300002: pasted__phoneHandset
+    4300004: pasted__phoneButton4
+    4300006: pasted__phoneButton1
+    4300008: pasted__phoneButton3
+    4300010: pasted__phoneButton2
+    4300012: pasted__phoneButton6
+    4300014: pasted__phoneButton5
+    4300016: pasted__phoneButton7
+    4300018: pasted__phoneButton8
+    4300020: pasted__phoneButton9
+    4300022: pasted__phoneButton0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

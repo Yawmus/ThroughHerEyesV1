@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: c21b0ba10c08b400ba1e01b4061bc319
+timeCreated: 1460041927
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bathroom_window
+    100002: ceiling1
+    100004: floor1
+    100006: floor2
+    100008: housegroup
+    100010: int_wall1
+    100012: int_wall2
+    100014: int_wall3
+    100016: int_wall4
+    100018: int_wall5
+    100020: int_wall6
+    100022: int_wall7
+    100024: //RootNode
+    100026: stairs1
+    100028: stairwall
+    100030: wall1
+    100032: wall2
+    100034: wall3
+    100036: wall4
+    100038: wall5
+    100040: wall6
+    100042: wall7
+    100044: wall8
+    400000: bathroom_window
+    400002: ceiling1
+    400004: floor1
+    400006: floor2
+    400008: housegroup
+    400010: int_wall1
+    400012: int_wall2
+    400014: int_wall3
+    400016: int_wall4
+    400018: int_wall5
+    400020: int_wall6
+    400022: int_wall7
+    400024: //RootNode
+    400026: stairs1
+    400028: stairwall
+    400030: wall1
+    400032: wall2
+    400034: wall3
+    400036: wall4
+    400038: wall5
+    400040: wall6
+    400042: wall7
+    400044: wall8
+    2300000: bathroom_window
+    2300002: ceiling1
+    2300004: floor1
+    2300006: floor2
+    2300008: int_wall1
+    2300010: int_wall2
+    2300012: int_wall3
+    2300014: int_wall4
+    2300016: int_wall5
+    2300018: int_wall6
+    2300020: int_wall7
+    2300022: stairs1
+    2300024: stairwall
+    2300026: wall1
+    2300028: wall2
+    2300030: wall3
+    2300032: wall4
+    2300034: wall5
+    2300036: wall6
+    2300038: wall7
+    2300040: wall8
+    3300000: bathroom_window
+    3300002: ceiling1
+    3300004: floor1
+    3300006: floor2
+    3300008: int_wall1
+    3300010: int_wall2
+    3300012: int_wall3
+    3300014: int_wall4
+    3300016: int_wall5
+    3300018: int_wall6
+    3300020: int_wall7
+    3300022: stairs1
+    3300024: stairwall
+    3300026: wall1
+    3300028: wall2
+    3300030: wall3
+    3300032: wall4
+    3300034: wall5
+    3300036: wall6
+    3300038: wall7
+    3300040: wall8
+    4300000: int_wall5
+    4300002: floor1
+    4300004: wall3
+    4300006: wall4
+    4300008: int_wall1
+    4300010: stairs1
+    4300012: int_wall2
+    4300014: wall1
+    4300016: stairwall
+    4300018: wall6
+    4300020: int_wall4
+    4300022: wall5
+    4300024: int_wall7
+    4300026: wall8
+    4300028: int_wall6
+    4300030: wall2
+    4300032: ceiling1
+    4300034: int_wall3
+    4300036: wall7
+    4300038: floor2
+    4300040: bathroom_window
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

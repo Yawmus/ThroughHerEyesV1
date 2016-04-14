@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: a3999fc9553124ee683508890507aa7b
+timeCreated: 1459796617
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Pepperoni
+    100002: Pepperoni 1
+    100004: Pepperoni1
+    100006: Pepperoni10
+    100008: Pepperoni11
+    100010: Pepperoni12
+    100012: Pepperoni13
+    100014: Pepperoni14
+    100016: Pepperoni15
+    100018: Pepperoni2
+    100020: Pepperoni3
+    100022: Pepperoni4
+    100024: Pepperoni5
+    100026: Pepperoni6
+    100028: Pepperoni7
+    100030: Pepperoni8
+    100032: Pepperoni9
+    100034: Pizza
+    100036: Pizza 1
+    100038: //RootNode
+    100040: Plate
+    400000: Pepperoni
+    400002: Pepperoni 1
+    400004: Pepperoni1
+    400006: Pepperoni10
+    400008: Pepperoni11
+    400010: Pepperoni12
+    400012: Pepperoni13
+    400014: Pepperoni14
+    400016: Pepperoni15
+    400018: Pepperoni2
+    400020: Pepperoni3
+    400022: Pepperoni4
+    400024: Pepperoni5
+    400026: Pepperoni6
+    400028: Pepperoni7
+    400030: Pepperoni8
+    400032: Pepperoni9
+    400034: Pizza
+    400036: Pizza 1
+    400038: //RootNode
+    400040: Plate
+    2300000: Pepperoni 1
+    2300002: Pepperoni1
+    2300004: Pepperoni10
+    2300006: Pepperoni11
+    2300008: Pepperoni12
+    2300010: Pepperoni13
+    2300012: Pepperoni14
+    2300014: Pepperoni15
+    2300016: Pepperoni2
+    2300018: Pepperoni3
+    2300020: Pepperoni4
+    2300022: Pepperoni5
+    2300024: Pepperoni6
+    2300026: Pepperoni7
+    2300028: Pepperoni8
+    2300030: Pepperoni9
+    2300032: Pizza 1
+    2300034: Plate
+    3300000: Pepperoni 1
+    3300002: Pepperoni1
+    3300004: Pepperoni10
+    3300006: Pepperoni11
+    3300008: Pepperoni12
+    3300010: Pepperoni13
+    3300012: Pepperoni14
+    3300014: Pepperoni15
+    3300016: Pepperoni2
+    3300018: Pepperoni3
+    3300020: Pepperoni4
+    3300022: Pepperoni5
+    3300024: Pepperoni6
+    3300026: Pepperoni7
+    3300028: Pepperoni8
+    3300030: Pepperoni9
+    3300032: Pizza 1
+    3300034: Plate
+    4300000: Pizza
+    4300002: Pepperoni
+    4300004: Pepperoni1
+    4300006: Pepperoni2
+    4300008: Pepperoni3
+    4300010: Pepperoni4
+    4300012: Pepperoni5
+    4300014: Pepperoni6
+    4300016: Pepperoni7
+    4300018: Pepperoni8
+    4300020: Pepperoni9
+    4300022: Pepperoni10
+    4300024: Pepperoni11
+    4300026: Pepperoni12
+    4300028: Pepperoni13
+    4300030: Pepperoni14
+    4300032: Pepperoni15
+    4300034: Plate
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

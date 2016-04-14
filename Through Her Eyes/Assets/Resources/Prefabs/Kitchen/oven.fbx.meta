@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: c8bc7b0b07d4a4f50818e28d8aee5ae9
+timeCreated: 1459911045
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: stove2
+    100004: stoveburner1
+    100006: stoveburner2
+    100008: stoveburner3
+    100010: stoveburner4
+    100012: stovedoor
+    100014: stovedrawer
+    100016: stoveknob1
+    100018: stoveknob2
+    100020: stoveknob3
+    100022: stoveknob4
+    100024: stoverack1
+    100026: stoverack2
+    400000: //RootNode
+    400002: stove2
+    400004: stoveburner1
+    400006: stoveburner2
+    400008: stoveburner3
+    400010: stoveburner4
+    400012: stovedoor
+    400014: stovedrawer
+    400016: stoveknob1
+    400018: stoveknob2
+    400020: stoveknob3
+    400022: stoveknob4
+    400024: stoverack1
+    400026: stoverack2
+    2300000: stove2
+    2300002: stoveburner1
+    2300004: stoveburner2
+    2300006: stoveburner3
+    2300008: stoveburner4
+    2300010: stovedoor
+    2300012: stovedrawer
+    2300014: stoveknob1
+    2300016: stoveknob2
+    2300018: stoveknob3
+    2300020: stoveknob4
+    2300022: stoverack1
+    2300024: stoverack2
+    3300000: stove2
+    3300002: stoveburner1
+    3300004: stoveburner2
+    3300006: stoveburner3
+    3300008: stoveburner4
+    3300010: stovedoor
+    3300012: stovedrawer
+    3300014: stoveknob1
+    3300016: stoveknob2
+    3300018: stoveknob3
+    3300020: stoveknob4
+    3300022: stoverack1
+    3300024: stoverack2
+    4300000: stovedoor
+    4300002: stovedrawer
+    4300004: stoverack2
+    4300006: stoverack1
+    4300008: stoveknob3
+    4300010: stoveknob4
+    4300012: stoveknob2
+    4300014: stoveknob1
+    4300016: stoveburner1
+    4300018: stoveburner3
+    4300020: stoveburner2
+    4300022: stoveburner4
+    4300024: stove2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

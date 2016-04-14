@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 8bf71d8b1c20c4b508ae07fe1184fd61
+timeCreated: 1460054877
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BottomShelf1
+    100002: FreezerDoor
+    100004: FreezerDoor1
+    100006: FreezerHandle
+    100008: FreezerTopShelf
+    100010: //RootNode
+    100012: FridgeDoor
+    100014: FridgeDoor1
+    100016: FridgeHandle
+    100018: FridgeMainBody
+    100020: LeftDrawer
+    100022: MainDivider
+    100024: MidShelf1
+    100026: RightDrawer
+    100028: TopShelf1
+    400000: BottomShelf1
+    400002: FreezerDoor
+    400004: FreezerDoor1
+    400006: FreezerHandle
+    400008: FreezerTopShelf
+    400010: //RootNode
+    400012: FridgeDoor
+    400014: FridgeDoor1
+    400016: FridgeHandle
+    400018: FridgeMainBody
+    400020: LeftDrawer
+    400022: MainDivider
+    400024: MidShelf1
+    400026: RightDrawer
+    400028: TopShelf1
+    2300000: BottomShelf1
+    2300002: FreezerDoor1
+    2300004: FreezerHandle
+    2300006: FreezerTopShelf
+    2300008: FridgeDoor1
+    2300010: FridgeHandle
+    2300012: FridgeMainBody
+    2300014: LeftDrawer
+    2300016: MainDivider
+    2300018: MidShelf1
+    2300020: RightDrawer
+    2300022: TopShelf1
+    3300000: BottomShelf1
+    3300002: FreezerDoor1
+    3300004: FreezerHandle
+    3300006: FreezerTopShelf
+    3300008: FridgeDoor1
+    3300010: FridgeHandle
+    3300012: FridgeMainBody
+    3300014: LeftDrawer
+    3300016: MainDivider
+    3300018: MidShelf1
+    3300020: RightDrawer
+    3300022: TopShelf1
+    4300000: FridgeMainBody
+    4300002: BottomShelf1
+    4300004: RightDrawer
+    4300006: TopShelf1
+    4300008: MidShelf1
+    4300010: MainDivider
+    4300012: FreezerTopShelf
+    4300014: LeftDrawer
+    4300016: FreezerDoor1
+    4300018: FreezerHandle
+    4300020: FridgeDoor1
+    4300022: FridgeHandle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

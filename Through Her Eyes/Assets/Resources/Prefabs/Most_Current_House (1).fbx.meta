@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 8d35914ec1a114ee292e4e7d6ea8a5d3
+timeCreated: 1459796709
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ceiling1
+    100002: floor1
+    100004: floor2
+    100006: int_wall1
+    100008: int_wall2
+    100010: int_wall3
+    100012: int_wall4
+    100014: int_wall5
+    100016: int_wall6
+    100018: int_wall7
+    100020: //RootNode
+    100022: stairs1
+    100024: stairwall
+    100026: wall1
+    100028: wall2
+    100030: wall3
+    100032: wall4
+    100034: wall5
+    100036: wall6
+    100038: wall7
+    100040: wall8
+    400000: ceiling1
+    400002: floor1
+    400004: floor2
+    400006: int_wall1
+    400008: int_wall2
+    400010: int_wall3
+    400012: int_wall4
+    400014: int_wall5
+    400016: int_wall6
+    400018: int_wall7
+    400020: //RootNode
+    400022: stairs1
+    400024: stairwall
+    400026: wall1
+    400028: wall2
+    400030: wall3
+    400032: wall4
+    400034: wall5
+    400036: wall6
+    400038: wall7
+    400040: wall8
+    2300000: ceiling1
+    2300002: floor1
+    2300004: floor2
+    2300006: int_wall1
+    2300008: int_wall2
+    2300010: int_wall3
+    2300012: int_wall4
+    2300014: int_wall5
+    2300016: int_wall6
+    2300018: int_wall7
+    2300020: stairs1
+    2300022: stairwall
+    2300024: wall1
+    2300026: wall2
+    2300028: wall3
+    2300030: wall4
+    2300032: wall5
+    2300034: wall6
+    2300036: wall7
+    2300038: wall8
+    3300000: ceiling1
+    3300002: floor1
+    3300004: floor2
+    3300006: int_wall1
+    3300008: int_wall2
+    3300010: int_wall3
+    3300012: int_wall4
+    3300014: int_wall5
+    3300016: int_wall6
+    3300018: int_wall7
+    3300020: stairs1
+    3300022: stairwall
+    3300024: wall1
+    3300026: wall2
+    3300028: wall3
+    3300030: wall4
+    3300032: wall5
+    3300034: wall6
+    3300036: wall7
+    3300038: wall8
+    4300000: int_wall5
+    4300002: floor1
+    4300004: wall3
+    4300006: wall4
+    4300008: int_wall1
+    4300010: stairs1
+    4300012: int_wall2
+    4300014: wall1
+    4300016: stairwall
+    4300018: wall6
+    4300020: int_wall4
+    4300022: wall5
+    4300024: int_wall7
+    4300026: wall8
+    4300028: int_wall6
+    4300030: wall2
+    4300032: ceiling1
+    4300034: int_wall3
+    4300036: wall7
+    4300038: floor2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
