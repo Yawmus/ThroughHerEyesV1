@@ -27,10 +27,12 @@ public class UIManager : MonoBehaviour
         paused = false;
 	}
 	void Awake(){
-		SpotPanel.transform.FindChild("1").gameObject.SetActive(false);
-		SpotPanel.transform.FindChild("2").gameObject.SetActive(false);
-		if(spot != 0)
-			SpotPanel.transform.FindChild(spot + "").gameObject.SetActive(true);
+		if (Application.loadedLevel != 0) {
+			SpotPanel.transform.FindChild ("1").gameObject.SetActive (false);
+			SpotPanel.transform.FindChild ("2").gameObject.SetActive (false);
+			if (spot != 0)
+				SpotPanel.transform.FindChild (spot + "").gameObject.SetActive (true);
+		}
 	}
 	
 	// Update is called once per frame
