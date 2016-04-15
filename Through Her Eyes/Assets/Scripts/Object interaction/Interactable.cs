@@ -6,6 +6,7 @@ public class Interactable : MonoBehaviour {
 
 	public int currentState;
 	public List<Transition> transitions;
+	public Dialogue dialogue;
 	Transition currentTransition, hoveredTransition;
 	bool interacted;
 	bool skip = true, started = false;
@@ -42,7 +43,7 @@ public class Interactable : MonoBehaviour {
 			started = true;
 		} else if (interacted) {
 			if (currentTransition.IsFinished ()) {
-				currentTransition.EndTransition ();
+				currentTransition.EndTransition (dialogue);
 				interacted = false;
 				started = false;
 			} else {
@@ -99,6 +100,7 @@ public class Interactable : MonoBehaviour {
 		public List<ResultState> results;
 		public List<MeshRenderer> highlightedMeshes;
 		public List<Movement> movements;
+		public List<string> say;
 
 		List<Color> startColors = new List<Color>();
 		bool finished = false;
@@ -144,12 +146,15 @@ public class Interactable : MonoBehaviour {
 			return finished;
 		}
 
-		public void EndTransition(){
+		public void EndTransition(Dialogue dialogue){
 			finished = false;
 			foreach (ResultState r in results)
 				r.gameObject.GetComponent<Interactable> ().currentState = r.state;
 			foreach (Movement m in movements)
 				m.EndMovement ();
+			
+			for(int j=0; j<say.Count; j++)
+				dialogue.Say(say[j]);
 		}
 	}
 	

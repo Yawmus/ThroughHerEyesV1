@@ -53,7 +53,8 @@ public class Player : MonoBehaviour {
 				GameObject go = hit.collider.gameObject;
 				if (go.GetComponent<Grabable> () != null) {
 					go.GetComponent<Grabable> ().Hover ();
-					itemUI.transform.FindChild("Text").GetComponent<Text>().text = go.GetComponent<Grabable> ().GetDiscription();
+					string t = go.GetComponent<Grabable> ().GetDiscription();
+					itemUI.transform.FindChild("Text").GetComponent<Text>().text = t;
 					itemUI.SetActive(true);
 					if (Input.GetMouseButtonDown (0)) {
 						grabbedObject = go;
@@ -69,8 +70,13 @@ public class Player : MonoBehaviour {
 				else if(go.GetComponent<Interactable>() != null && go.GetComponent<Interactable>().CanInteract())
 				{
 					go.GetComponent<Interactable> ().Hover ();
-					itemUI.transform.FindChild("Text").GetComponent<Text>().text = go.GetComponent<Interactable> ().GetDiscription();
-					itemUI.SetActive(true);
+					string t = go.GetComponent<Interactable> ().GetDiscription();
+					
+					if(t != null && t != "")
+					{
+						itemUI.transform.FindChild("Text").GetComponent<Text>().text = t;
+						itemUI.SetActive(true);
+					}
 
 					if(Input.GetMouseButtonDown(0)){
 						go.GetComponent<Interactable>().SetInteracted(true);
