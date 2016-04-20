@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 805408940715c461b8908cda2983c31c
+timeCreated: 1460041927
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: phoneBase
+    100004: phoneButton0
+    100006: phoneButton1
+    100008: phoneButton2
+    100010: phoneButton3
+    100012: phoneButton4
+    100014: phoneButton5
+    100016: phoneButton6
+    100018: phoneButton7
+    100020: phoneButton8
+    100022: phoneButton9
+    100024: phoneButtonClear
+    100026: phoneHandset
+    400000: //RootNode
+    400002: phoneBase
+    400004: phoneButton0
+    400006: phoneButton1
+    400008: phoneButton2
+    400010: phoneButton3
+    400012: phoneButton4
+    400014: phoneButton5
+    400016: phoneButton6
+    400018: phoneButton7
+    400020: phoneButton8
+    400022: phoneButton9
+    400024: phoneButtonClear
+    400026: phoneHandset
+    2300000: phoneBase
+    2300002: phoneButton0
+    2300004: phoneButton1
+    2300006: phoneButton2
+    2300008: phoneButton3
+    2300010: phoneButton4
+    2300012: phoneButton5
+    2300014: phoneButton6
+    2300016: phoneButton7
+    2300018: phoneButton8
+    2300020: phoneButton9
+    2300022: phoneButtonClear
+    2300024: phoneHandset
+    3300000: phoneBase
+    3300002: phoneButton0
+    3300004: phoneButton1
+    3300006: phoneButton2
+    3300008: phoneButton3
+    3300010: phoneButton4
+    3300012: phoneButton5
+    3300014: phoneButton6
+    3300016: phoneButton7
+    3300018: phoneButton8
+    3300020: phoneButton9
+    3300022: phoneButtonClear
+    3300024: phoneHandset
+    4300000: phoneBase
+    4300002: phoneHandset
+    4300004: phoneButton4
+    4300006: phoneButton0
+    4300008: phoneButtonClear
+    4300010: phoneButton9
+    4300012: phoneButton8
+    4300014: phoneButton7
+    4300016: phoneButton5
+    4300018: phoneButton6
+    4300020: phoneButton2
+    4300022: phoneButton3
+    4300024: phoneButton1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
