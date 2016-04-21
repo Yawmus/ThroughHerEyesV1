@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: cd8736df687eb4d9bb8560e6daccc25f
+timeCreated: 1461253927
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ParentBedForScaling:group10
+    100002: ParentBedForScaling:group9
+    100004: ParentBedForScaling:ParentBedBase
+    100006: ParentBedForScaling:ParentBedMattress
+    100008: ParentBedForScaling:ParentBedPillow1
+    100010: ParentBedForScaling:parentBedPillow2
+    100012: ParentBedForScaling:pasted__group9
+    100014: //RootNode
+    400000: ParentBedForScaling:group10
+    400002: ParentBedForScaling:group9
+    400004: ParentBedForScaling:ParentBedBase
+    400006: ParentBedForScaling:ParentBedMattress
+    400008: ParentBedForScaling:ParentBedPillow1
+    400010: ParentBedForScaling:parentBedPillow2
+    400012: ParentBedForScaling:pasted__group9
+    400014: //RootNode
+    2300000: ParentBedForScaling:ParentBedBase
+    2300002: ParentBedForScaling:ParentBedMattress
+    2300004: ParentBedForScaling:ParentBedPillow1
+    2300006: ParentBedForScaling:parentBedPillow2
+    3300000: ParentBedForScaling:ParentBedBase
+    3300002: ParentBedForScaling:ParentBedMattress
+    3300004: ParentBedForScaling:ParentBedPillow1
+    3300006: ParentBedForScaling:parentBedPillow2
+    4300000: ParentBedForScaling:ParentBedBase
+    4300002: ParentBedForScaling:ParentBedPillow1
+    4300004: ParentBedForScaling:ParentBedMattress
+    4300006: ParentBedForScaling:parentBedPillow2
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

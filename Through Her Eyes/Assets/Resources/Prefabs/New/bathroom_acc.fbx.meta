@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 082378a41d0aa401faba1960987f8ca3
+timeCreated: 1461253925
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bathmat
+    100002: //RootNode
+    100004: showerHandle
+    100006: showerHandleBase
+    100008: toiletPaper
+    100010: towell1
+    100012: towell2
+    100014: towell3
+    100016: towellRack1
+    100018: towellRack2
+    100020: TPHolder
+    400000: bathmat
+    400002: //RootNode
+    400004: showerHandle
+    400006: showerHandleBase
+    400008: toiletPaper
+    400010: towell1
+    400012: towell2
+    400014: towell3
+    400016: towellRack1
+    400018: towellRack2
+    400020: TPHolder
+    2300000: bathmat
+    2300002: showerHandle
+    2300004: showerHandleBase
+    2300006: toiletPaper
+    2300008: towell1
+    2300010: towell2
+    2300012: towell3
+    2300014: towellRack1
+    2300016: towellRack2
+    2300018: TPHolder
+    3300000: bathmat
+    3300002: showerHandle
+    3300004: showerHandleBase
+    3300006: toiletPaper
+    3300008: towell1
+    3300010: towell2
+    3300012: towell3
+    3300014: towellRack1
+    3300016: towellRack2
+    3300018: TPHolder
+    4300000: towellRack1
+    4300002: towell1
+    4300004: TPHolder
+    4300006: towellRack2
+    4300008: towell2
+    4300010: towell3
+    4300012: bathmat
+    4300014: showerHandleBase
+    4300016: showerHandle
+    4300018: toiletPaper
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
