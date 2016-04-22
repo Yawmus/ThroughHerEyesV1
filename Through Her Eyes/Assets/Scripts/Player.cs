@@ -104,7 +104,7 @@ public class Player : MonoBehaviour {
 			}
 			oldX = x;
 		}
-		Camera.main.transform.localPosition = new Vector3(0, cc.height/4, 0);
+		Camera.main.transform.localPosition = new Vector3(0, cc.height/4, -.2f);
 		//cc.height;
 	}
 

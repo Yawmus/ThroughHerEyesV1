@@ -41,6 +41,11 @@ public class Interactable : MonoBehaviour {
 			currentTransition.ResetHighlightedMeshes();
 			currentTransition.Awake ();
 			started = true;
+			if(GetComponent<AudioSource>() != null && currentTransition.audio != null)
+			{
+				GetComponent<AudioSource>().clip = currentTransition.audio;
+				GetComponent<AudioSource>().Play();
+			}
 		} else if (interacted) {
 			if (currentTransition.IsFinished ()) {
 				currentTransition.EndTransition (dialogue);
@@ -94,6 +99,7 @@ public class Interactable : MonoBehaviour {
 
 	[System.Serializable]
 	public class Transition{
+		public AudioClip audio;
 		public string description;
 		public int endingState;
 		public List<PrereqState> prereqs;

@@ -44,16 +44,19 @@ public class Phone : MonoBehaviour {
 		{
 			for(int i=0; i<valid.Length; i++)
 			{
-				if(valid[i] == num)
+				if(valid[i] == num){
 					called[i] = true;
+				}
 			}
+			num = "";
 		}
 	}
 	public bool Called(string num)
 	{
-		for(int i=0; i<valid.Length; i++)
-			if(valid[i] == num)
-				return called[i];
+		for (int i=0; i<valid.Length; i++) {
+			if (valid [i] == num)
+				return called [i];
+		}
 		return false;
 	}
 }

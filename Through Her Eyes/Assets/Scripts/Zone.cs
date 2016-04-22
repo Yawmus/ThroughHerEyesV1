@@ -19,7 +19,6 @@ public class Zone : MonoBehaviour {
 		foreach (GameObject g in objects) {
 			if (!b.bounds.Intersects (g.GetComponent<Collider> ().bounds)) {
 				removeObjects.Enqueue (g);
-				Debug.Log (g.name + " was just exited");
 			}
 		}
 		while (removeObjects.Count > 0)
@@ -30,7 +29,6 @@ public class Zone : MonoBehaviour {
 		Grabable g = other.gameObject.GetComponent<Grabable> ();
 		if (g == null)
 			return;
-		Debug.Log (other.name + " just entered");
 		objects.Add (g.gameObject);
 	}
 
